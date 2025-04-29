@@ -23,4 +23,4 @@
   -  Filtered Queries:
       -  Limited results by time range (e.g., H1 2023)
 -  Purpose
-  -  Learn how to group, aggregate, and analyze sales trends over time using core SQL functions in MySQL Workbench.
+      -  Learn how to group, aggregate, and analyze sales trends over time using core SQL functions in MySQL Workbench.
